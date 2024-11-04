@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogebuiyo.github.io/BJY/sitemap_index.txt
+Sitemap: https://ogebuiyo.github.io/Lsy/sitemap_index.txt
+Sitemap: https://ogebuiyo.github.io/PVt/sitemap_index.txt
+Sitemap: https://ogebuiyo.github.io/RwJ/sitemap_index.txt
